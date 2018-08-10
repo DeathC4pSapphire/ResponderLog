@@ -1,5 +1,5 @@
 # ResponderLog
-A wrapper script for Responder's log files
+A wrapper script for [[https://github.com/SpiderLabs/Responder | Responder's]] log files
 
 Note: As of 08/10/2018, this script works for NTLMv1 and NTLMv2 hashes
 
